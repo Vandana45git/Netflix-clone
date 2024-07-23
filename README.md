@@ -1,2 +1,2 @@
 # Netflix-clone
-I had created this netflix clone using html and css
+It is a clone project that clone the netflix site
